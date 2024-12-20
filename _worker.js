@@ -4,7 +4,7 @@ import { connect } from 'cloudflare:sockets';
 let userID = '00f7b9a7-71d7-4999-820b-914248a601a4';
 
 //GANTI PROXYIP
-let proxyIP = '35.219.50.99';
+let proxyIP = '178.128.91.137';
 
 
 if (!isValidUUID(userID)) {
