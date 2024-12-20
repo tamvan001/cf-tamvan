@@ -1,17 +1,17 @@
-name = "tamvan1"
+name = "tamvan"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
 workers_dev = true
 [[routes]]
-pattern = "tamvan1.yasnaya.my.id"
+pattern = "tamvan.yasnaya.my.id"
 custom_domain = true
 [[routes]]
-pattern = "quiz.int.vidio.com.tamvan1.yasnaya.my.id"
+pattern = "quiz.int.vidio.com.tamvan.yasnaya.my.id"
 custom_domain = true
 
 [vars]
 # PROXYIP = "211.230.110.231:50008"
-UUID = "0ed0386c3-669a-4153-bd61-c78235c61039"
+UUID = "6fc8ef2d-39d3-43ea-be0d-f0e3fc4c7709"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
